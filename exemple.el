@@ -27,7 +27,7 @@
 
 ;; code goes here
 
-(tool-bar-mode 0)
+(tool-bar-mode 1)
 
 
 (provide 'exemple)
